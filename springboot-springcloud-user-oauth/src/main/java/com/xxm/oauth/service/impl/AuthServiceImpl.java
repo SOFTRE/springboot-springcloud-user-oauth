@@ -22,9 +22,9 @@ import java.io.IOException;
 import java.util.Map;
 
 /*****
- * @Author: www.itheima
+ * @Author: Mr Liu
  * @Date: 2019/7/7 16:23
- * @Description: com.changgou.oauth.service.impl
+ * @Description: com.xxm.oauth.service.impl
  ****/
 @Service
 public class AuthServiceImpl implements AuthService {
